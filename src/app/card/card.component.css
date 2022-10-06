@@ -1,0 +1,56 @@
+/* .product {
+    padding: 10px 0;
+}
+.container-fluid {
+    padding: 0px -12px;
+}
+.slider-wrap {
+    position: relative;
+    overflow: hidden;
+    height: 150px;
+}
+.slider-main {
+    position: absolute;
+    margin-left: 9%;
+    margin-right: 10% ;
+    
+}
+.item {
+    display: inline-block;
+    height: 150px;
+    background: red;
+    position: relative;
+    margin:  0 12px;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: wheat;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+
+.prev {
+    position: absolute;
+    left: 43px;
+    top:50%;
+    transform: translate(-50%,-50%);
+}
+
+.next {
+    position: absolute;
+    right: -50px;
+    top:50%;
+    transform: translate(-50%,-50%);
+}
+ */
+
+
+ .container-fluid {
+    background-color: #eee;
+    height: 100vh;
+ }

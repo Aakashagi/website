@@ -1,0 +1,10 @@
+div.card-body{
+    background-color: rgb(233, 233, 233);
+    height: 500px;
+    width: auto;
+    overflow-y: scroll;
+    border: 2px solid rgb(0, 0, 0);
+    background-image: url('https://img.freepik.com/free-photo/blue-watercolor-leaf-background-aesthetic-winter-season_53876-143135.jpg?w=1380&t=st=1663156191~exp=1663156791~hmac=807fd998b7db4953bd16648ccbc02025d09096902d5e032d92dc443d7b014c86');
+    background-repeat: no-repeat;
+  }
+  

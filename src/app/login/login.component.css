@@ -1,0 +1,19 @@
+
+.back{
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    animation: mymove 5s infinite;
+    background-size:cover;
+  }
+
+
+
+
+  @keyframes mymove {
+    from {background-image: url('../../assets/images/wp5485154-4k-laptop-wallpapers.jpg');height: 100vh;width: 100%;}
+    to {background-image: url('../../assets/images/wp6940869-laptop-4k-wallpapers.jpg'); height: 100vh;width:100%}
+
+  }
+
+
